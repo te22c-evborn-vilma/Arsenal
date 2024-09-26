@@ -1,0 +1,16 @@
+[
+    {
+        "Name":"Fedora",
+        "Swag":10,
+        "Armor":3,
+        "Color":"Black",
+        "Funnines": -2
+    },
+    {
+        "Name":"Cowboyhatt",
+        "Swag":7,
+        "Armor":5,
+        "Color":"Light brown",
+        "Funnines": 4
+    }
+]
